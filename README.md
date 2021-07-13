@@ -1,1 +1,1 @@
-# Number-Plate-Recognition---OCR-Web-App
+# Number-Plate-Recognition OCR WebApp
