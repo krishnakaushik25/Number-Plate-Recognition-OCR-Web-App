@@ -1,5 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-f3c9a5bcd54cc2bb005081e16a6891157db91903 refs/heads/main
-54f9f89a6dd7df0f7ebb21d519cf5e03ce786343 refs/heads/whitesource/configure
-54f9f89a6dd7df0f7ebb21d519cf5e03ce786343 refs/pull/1/head
-9bd4bd1a0a955f4da5f9fe8c46d167cd4ff9f987 refs/pull/1/merge
